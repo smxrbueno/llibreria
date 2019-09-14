@@ -12,7 +12,7 @@
    if($conn){
       
 
-    $consulta= "select nom,preu from Llibre WHERE preu<=15" ; //escribim la consulta
+    $consulta= "select nom,preu from Llibre WHERE preu<15" ; //escribim la consulta
         
     $Result = mysqli_query($conn ,$consulta); //realitzem la consulta passant la connexio i la consulta
    
