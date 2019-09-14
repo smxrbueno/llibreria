@@ -1,0 +1,7 @@
+Els arxius php si son executats directament desde el navegador no funcionaran,
+ja que he agafat en un hosting gratuït que no deixa fer connexions externes a les seves Bases de dades.
+Deixo els enllaços dels php.
+
+http://projectefinal69.000webhostapp.com/llibresAutor.php?autor=George R.R. Martin
+http://projectefinal69.000webhostapp.com/editorialAutor.php?autor=George R.R. Martin
+http://projectefinal69.000webhostapp.com/preusLlibresIVA.php
